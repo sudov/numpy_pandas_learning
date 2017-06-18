@@ -10,3 +10,5 @@ Interesting graphs so Far
 ![Alt text](/TimeInvestment1.jpeg?raw=true)
 
 ![Alt text](/demographics.jpeg?raw=true)
+
+![Alt text](/demographics_ind.jpeg?raw=true)
