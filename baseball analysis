@@ -1,0 +1,25 @@
+World Series Winners:
+	Hypothesis - Players in each factor will be different for a WS winner
+	
+	Player-level comparisons
+		+ Who scores the most runs? (vs league highest)
+		+ Who scores the most runs per game?
+		+ Who scores the most runs per strikeout?
+		+ Who has the most strikeouts per game?
+		+ Who scores most doubles?
+		+ Who scores most triples?
+		+ Who scores the most home runs?
+		+ Who throws the most Outs Pitched per game?
+		+ Who has the most shutouts?
+		+ Who has the most assists?
+		+ Who has highest zone rating?
+		+ Who salary percentile are each of the above players?(vs league highest)
+
+	Team-level comparisons
+		+ Answer same questions for teams that are not WS winners
+		+ % All-Stars in the above 8 factors?
+		+ Compare WS winner Runs allowed to each team in the league
+		+ Compare WS winner Runs allowed to league median
+		+ Compare WS winner Strikeouts per game to league median
+		+ Compare WS winner homeruns scored by batters to league median
+		
